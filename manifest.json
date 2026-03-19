@@ -1,0 +1,20 @@
+[
+  {
+    "category": "Appearance",
+    "description": "Automatically assigns a unique [DiceBear](https://dicebear.com) avatar to every new Jellyfin user when their account is created. Works with LDAP users created via Authentik.",
+    "guid": "f19f4e68-14a1-4d99-bb80-ef59cd42d99a",
+    "name": "JellyfinAvatarSyncPlugin",
+    "overview": "Automatically assigns a unique avatar to every new Jellyfin user",
+    "owner": "gaurab-Candle",
+    "versions": [
+      {
+        "changelog": "First release",
+        "checksum": "5EAF63D036E57689DB3BC30FD7C72E1C",
+        "sourceUrl": "https://github.com/gaurab-Candle/Jellyfin-Avatar-Sync/releases/download/latest/JellyfinAvatarSyncPlugin.zip",
+        "targetAbi": "10.11.0.0",
+        "timestamp": "2026-03-19T23:30:25Z",
+        "version": "1.0.0"
+      }
+    ]
+  }
+]
