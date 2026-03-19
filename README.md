@@ -1,5 +1,5 @@
 # Jellyfin-Avatar-Sync
-# JellyfinDiceBearAvatar Plugin
+# JellyfinAvatarSyncPlugin Plugin
 
 Automatically assigns a unique [DiceBear](https://dicebear.com) avatar to every new Jellyfin user when their account is created. Works with LDAP users created via Authentik.
 
@@ -22,13 +22,16 @@ chmod +x build.sh
 ## Installation
 
 1. Add this URL to your Jellyfin Repository Manifests -
+
 ```https://raw.githubusercontent.com/gaurab-Candle/Jellyfin-Avatar-Sync/refs/heads/main/manifest.json```
+
+2. From the available plugins list, download and install `JellyfinAvatarSyncPlugin` plugin.
 
 ## Docker install path
 
 If running Jellyfin in Docker, the plugins folder is typically:
 ```
-/path/to/jellyfin/config/plugins/DiceBearAvatar_1.0.0.0/
+/path/to/jellyfin/config/plugins/JellyfinAvatarSyncPlugin_1.0.0.0/
 ```
 
 ## Configuration
