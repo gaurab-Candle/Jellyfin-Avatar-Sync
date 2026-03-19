@@ -21,14 +21,8 @@ chmod +x build.sh
 
 ## Installation
 
-1. Build the plugin (see above)
-2. In your Jellyfin config directory, create the folder:
-   ```
-   /config/plugins/DiceBearAvatar_1.0.0.0/
-   ```
-3. Copy `bin/Release/net8.0/JellyfinDiceBearAvatar.dll` into that folder
-4. Restart Jellyfin
-5. Go to **Dashboard → Plugins → DiceBear Avatar** to configure
+1. Add this URL to your Jellyfin Repository Manifests -
+```https://raw.githubusercontent.com/gaurab-Candle/Jellyfin-Avatar-Sync/refs/heads/main/manifest.json```
 
 ## Docker install path
 
