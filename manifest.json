@@ -9,7 +9,7 @@
     "versions": [
       {
         "changelog": "First release",
-        "checksum": "5EAF63D036E57689DB3BC30FD7C72E1C",
+        "checksum": "0BA4520666445CDF238ED56E9A6DF1ED",
         "sourceUrl": "https://github.com/gaurab-Candle/Jellyfin-Avatar-Sync/releases/download/latest/JellyfinAvatarSyncPlugin.zip",
         "targetAbi": "10.11.0.0",
         "timestamp": "2026-03-19T23:30:25Z",
